@@ -112,3 +112,8 @@ body{
     left: 0%;
     margin-top: -25vh;
 }
+
+.list > li:hover{
+    background-color: blueviolet;
+}
+
